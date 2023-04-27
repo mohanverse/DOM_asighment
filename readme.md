@@ -9,7 +9,7 @@
 ```JS
 let card = document.querySelector("aside > .crayons-card");
 
-card.querySelector("h2").innerHTML = "Raj Ratan";
+card.querySelector("h2").innerHTML = "mohanverse";
 
 card.querySelector("p").innerHTML = "I am a Web Developer";
 ```
