@@ -69,11 +69,11 @@ contact.style.color ="Blue";
 
 ## 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
-### Topics
+## Topics
 
 > getElementById, createElement, InnerText, append, setAttribute
 
-### Tasks
+## Tasks
 
 - Target the main div of card and change the Button text to Check out
 
@@ -87,11 +87,11 @@ card.querySelector(".cta").innerText = "Check out";
 
 ## 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
-### Topics
+## Topics
 
 > Query Selector, Event listeners, Changing Styles
 
-### Tasks
+## Tasks
 
 - Target the search box and on hover change thebackground color to red.
 
@@ -111,7 +111,7 @@ search.addEventListener('mouseout', () => {
 
 ## 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-### Topics
+## Topics
 
 > Form, Value, Submit
 
@@ -124,4 +124,5 @@ form.submit();
 ```
 
 ![output](./image/mdndocs.png)
+
 # DOM_asighment
