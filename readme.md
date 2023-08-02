@@ -2,7 +2,7 @@
 
 ## 1. Webiste Name: [Dev To](https://dev.to/)
 
-### Topics
+## Topics
 
 > Query Selctor, Inner HTML
 
@@ -13,6 +13,7 @@ card.querySelector("h2").innerHTML = "mohanverse";
 
 card.querySelector("p").innerHTML = "I am a Web Developer";
 ```
+
 
 ![before](./image/dev.to.png)
 
@@ -39,7 +40,7 @@ console.log(items)
 
 ## 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
-### Topics
+## Topics
 
 > Get Element By Id, Create Element, Create Text Node, Append Child
 
@@ -55,7 +56,7 @@ accordion.appendChild(faq);
 
 ## 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
-### Topics
+## Topics
 
 > Query Selector, InnerText
 
